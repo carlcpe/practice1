@@ -1,1 +1,1 @@
-"# skibidi toilet" 
+# this is my first customTkinter project
